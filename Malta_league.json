@@ -1191,7 +1191,7 @@
     {
       "tid": 6,
       "cid": 1,
-      "did": 3,
+      "did": 2,
       "region": "Fgura",
       "name": "Frogs",
       "abbrev": "FGU",
@@ -1232,7 +1232,7 @@
         {
           "tid": 6,
           "cid": 1,
-          "did": 3,
+          "did": 2,
           "region": "Fgura",
           "name": "Frogs",
           "abbrev": "FGU",
@@ -1388,7 +1388,7 @@
     {
       "tid": 7,
       "cid": 1,
-      "did": 4,
+      "did": 3,
       "region": "Birżebbuġa",
       "name": "Mariners",
       "abbrev": "BZB",
@@ -1429,7 +1429,7 @@
         {
           "tid": 7,
           "cid": 1,
-          "did": 4,
+          "did": 3,
           "region": "Birżebbuġa",
           "name": "Mariners",
           "abbrev": "BZB",
@@ -1782,7 +1782,7 @@
     {
       "tid": 9,
       "cid": 1,
-      "did": 3,
+      "did": 2,
       "region": "Marsa",
       "name": "Industry",
       "abbrev": "MAR",
@@ -1823,7 +1823,7 @@
         {
           "tid": 9,
           "cid": 1,
-          "did": 3,
+          "did": 2,
           "region": "Marsa",
           "name": "Mavericks",
           "abbrev": "MAR",
@@ -1979,7 +1979,7 @@
     {
       "tid": 10,
       "cid": 1,
-      "did": 4,
+      "did": 3,
       "region": "Ħamrun",
       "name": "Outcasts",
       "abbrev": "ĦAM",
@@ -2020,7 +2020,7 @@
         {
           "tid": 10,
           "cid": 1,
-          "did": 4,
+          "did": 3,
           "region": "Ħamrun",
           "name": "Outcasts",
           "abbrev": "ĦAM",
@@ -2176,7 +2176,7 @@
     {
       "tid": 11,
       "cid": 1,
-      "did": 4,
+      "did": 3,
       "region": "Luqa",
       "name": "Fighter Pilots",
       "abbrev": "LUQ",
@@ -2217,7 +2217,7 @@
         {
           "tid": 11,
           "cid": 1,
-          "did": 4,
+          "did": 3,
           "region": "Luqa",
           "name": "Fighter Pilots",
           "abbrev": "LUQ",
@@ -2373,7 +2373,7 @@
     {
       "tid": 12,
       "cid": 1,
-      "did": 3,
+      "did": 2,
       "region": "Marsaskala",
       "name": "Sports Club",
       "abbrev": "MSK",
@@ -2414,7 +2414,7 @@
         {
           "tid": 12,
           "cid": 1,
-          "did": 3,
+          "did": 2,
           "region": "Marsaskala",
           "name": "Sports Club",
           "abbrev": "MSK",
@@ -2767,7 +2767,7 @@
     {
       "tid": 14,
       "cid": 1,
-      "did": 4,
+      "did": 3,
       "region": "Qormi",
       "name": "PaviStars",
       "abbrev": "QOR",
@@ -2808,7 +2808,7 @@
         {
           "tid": 14,
           "cid": 1,
-          "did": 4,
+          "did": 3,
           "region": "Qormi",
           "name": "PaviStars",
           "abbrev": "QOR",
@@ -3555,7 +3555,7 @@
     {
       "tid": 18,
       "cid": 1,
-      "did": 3,
+      "did": 2,
       "region": "Paola",
       "name": "Victory",
       "abbrev": "PAO",
@@ -3596,7 +3596,7 @@
         {
           "tid": 18,
           "cid": 1,
-          "did": 3,
+          "did": 2,
           "region": "Paola",
           "name": "Victory",
           "abbrev": "PAO",
@@ -3949,7 +3949,7 @@
     {
       "tid": 20,
       "cid": 1,
-      "did": 4,
+      "did": 3,
       "region": "Santa Luċija",
       "name": "Suns",
       "abbrev": "SLC",
@@ -3990,7 +3990,7 @@
         {
           "tid": 20,
           "cid": 1,
-          "did": 4,
+          "did": 3,
           "region": "Santa Luċija",
           "name": "Suns",
           "abbrev": "SLC",
@@ -4146,7 +4146,7 @@
     {
       "tid": 21,
       "cid": 1,
-      "did": 4,
+      "did": 3,
       "region": "Siġġiewi",
       "name": "Basketball Club",
       "abbrev": "SIĠ",
@@ -4187,7 +4187,7 @@
         {
           "tid": 21,
           "cid": 1,
-          "did": 4,
+          "did": 3,
           "region": "Siġġiewi",
           "name": "Basketball Club",
           "abbrev": "SIĠ",
@@ -4343,7 +4343,7 @@
     {
       "tid": 22,
       "cid": 1,
-      "did": 4,
+      "did": 3,
       "region": "Żebbuġ",
       "name": "Doves",
       "abbrev": "ŻBĠ",
@@ -4384,7 +4384,7 @@
         {
           "tid": 22,
           "cid": 1,
-          "did": 4,
+          "did": 3,
           "region": "Żebbuġ",
           "name": "Doves",
           "abbrev": "ŻBĠ",
@@ -4540,7 +4540,7 @@
     {
       "tid": 23,
       "cid": 1,
-      "did": 4,
+      "did": 3,
       "region": "Żurrieq",
       "name": "Hunters",
       "abbrev": "ŻRQ",
@@ -4581,7 +4581,7 @@
         {
           "tid": 23,
           "cid": 1,
-          "did": 4,
+          "did": 3,
           "region": "Żurrieq",
           "name": "Hunters",
           "abbrev": "ŻRQ",
@@ -4934,7 +4934,7 @@
     {
       "tid": 25,
       "cid": 1,
-      "did": 3,
+      "did": 2,
       "region": "Tarxien",
       "name": "Rainbows",
       "abbrev": "TAR",
@@ -4975,7 +4975,7 @@
         {
           "tid": 25,
           "cid": 1,
-          "did": 3,
+          "did": 2,
           "region": "Tarxien",
           "name": "Rainbows",
           "abbrev": "TAR",
@@ -5525,7 +5525,7 @@
     {
       "tid": 28,
       "cid": 1,
-      "did": 3,
+      "did": 2,
       "region": "Valletta",
       "name": "Lions",
       "abbrev": "VLT",
@@ -5566,7 +5566,7 @@
         {
           "tid": 28,
           "cid": 1,
-          "did": 3,
+          "did": 2,
           "region": "Valletta",
           "name": "Lions",
           "abbrev": "VLT",
@@ -5919,7 +5919,7 @@
     {
       "tid": 30,
       "cid": 1,
-      "did": 3,
+      "did": 2,
       "region": "Żabbar",
       "name": "Crystals",
       "abbrev": "ŻAB",
@@ -5960,7 +5960,7 @@
         {
           "tid": 30,
           "cid": 1,
-          "did": 3,
+          "did": 2,
           "region": "Żabbar",
           "name": "Crystals",
           "abbrev": "ŻAB",
@@ -6117,7 +6117,7 @@
     {
       "tid": 31,
       "cid": 1,
-      "did": 3,
+      "did": 2,
       "region": "Żejtun",
       "name": "Olives",
       "abbrev": "ŻTN",
@@ -6158,7 +6158,7 @@
         {
           "tid": 31,
           "cid": 1,
-          "did": 3,
+          "did": 2,
           "region": "Żejtun",
           "name": "Olives",
           "abbrev": "ŻTN",
@@ -6268,6 +6268,6439 @@
           "gp": 0,
           "min": 0,
           "ba": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 31
+        }
+      ]
+    }
+  ],"teams": [
+    {
+      "tid": 0,
+      "cid": 0,
+      "did": 1,
+      "region": "Birkirkara",
+      "name": "Citizens",
+      "abbrev": "BKC",
+      "imgURL": "https://i.imgur.com/xxrd1XL.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 51.66,
+          "rank": 13
+        },
+        "scouting": {
+          "amount": 18780,
+          "rank": 13
+        },
+        "coaching": {
+          "amount": 18780,
+          "rank": 13
+        },
+        "health": {
+          "amount": 18780,
+          "rank": 13
+        },
+        "facilities": {
+          "amount": 18780,
+          "rank": 13
+        }
+      },
+      "strategy": "rebuilding",
+      "colors": [
+        "#ffd500",
+        "#ff0000",
+        "#211e1e"
+      ],
+      "jersey": "jersey3",
+      "pop": 24.3,
+      "stadiumCapacity": 25000,
+      "retiredJerseyNumbers": [],
+      "adjustForInflation": true,
+      "disabled": false,
+      "keepRosterSorted": true,
+      "seasons": [
+        {
+          "tid": 0,
+          "cid": 0,
+          "did": 1,
+          "region": "Birkirkara",
+          "name": "Citizens",
+          "abbrev": "BKC",
+          "colors": [
+            "#ffd500",
+            "#ff0000",
+            "#211e1e"
+          ],
+          "season": 2020,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.857906347808659,
+          "pop": 24.3,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "ownerMood": {
+            "wins": 0,
+            "playoffs": 0,
+            "money": 0
+          },
+          "numPlayersTradedAway": 0,
+          "imgURL": "https://i.imgur.com/xxrd1XL.png",
+          "jersey": "jersey3",
+          "rid": 0
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 0,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 0
+        }
+      ]
+    },
+    {
+      "tid": 1,
+      "cid": 0,
+      "did": 1,
+      "region": "Gżira",
+      "name": "Snakes",
+      "abbrev": "GZS",
+      "imgURL": "https://i.imgur.com/GLTR6Uk.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 44.76,
+          "rank": 20
+        },
+        "scouting": {
+          "amount": 16290,
+          "rank": 20
+        },
+        "coaching": {
+          "amount": 16290,
+          "rank": 20
+        },
+        "health": {
+          "amount": 16290,
+          "rank": 20
+        },
+        "facilities": {
+          "amount": 16290,
+          "rank": 20
+        }
+      },
+      "strategy": "rebuilding",
+      "colors": [
+        "#c701fe",
+        "#d1f3ff",
+        "#000000"
+      ],
+      "jersey": "jersey3",
+      "pop": 8,
+      "stadiumCapacity": 25000,
+      "retiredJerseyNumbers": [],
+      "adjustForInflation": true,
+      "disabled": false,
+      "keepRosterSorted": true,
+      "seasons": [
+        {
+          "tid": 1,
+          "cid": 0,
+          "did": 1,
+          "region": "Gżira",
+          "name": "Snakes",
+          "abbrev": "GZS",
+          "colors": [
+            "#c701fe",
+            "#d1f3ff",
+            "#000000"
+          ],
+          "season": 2020,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.8876221783935567,
+          "pop": 8,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "ownerMood": {
+            "wins": 0,
+            "playoffs": 0,
+            "money": 0
+          },
+          "numPlayersTradedAway": 0,
+          "imgURL": "https://i.imgur.com/GLTR6Uk.png",
+          "jersey": "jersey3",
+          "rid": 1
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 1,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 1
+        }
+      ]
+    },
+    {
+      "tid": 2,
+      "cid": 0,
+      "did": 1,
+      "region": "Msida",
+      "name": "Scholars",
+      "abbrev": "MSC",
+      "imgURL": "https://i.imgur.com/rCYrYO6.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 58.55,
+          "rank": 5
+        },
+        "scouting": {
+          "amount": 21260,
+          "rank": 5
+        },
+        "coaching": {
+          "amount": 21260,
+          "rank": 5
+        },
+        "health": {
+          "amount": 21260,
+          "rank": 5
+        },
+        "facilities": {
+          "amount": 21260,
+          "rank": 5
+        }
+      },
+      "strategy": "rebuilding",
+      "colors": [
+        "#ffffff",
+        "#5b2801",
+        "#ffffff"
+      ],
+      "jersey": "jersey3",
+      "pop": 13.7,
+      "stadiumCapacity": 25000,
+      "retiredJerseyNumbers": [],
+      "adjustForInflation": true,
+      "disabled": false,
+      "keepRosterSorted": true,
+      "seasons": [
+        {
+          "tid": 2,
+          "cid": 0,
+          "did": 1,
+          "region": "Msida",
+          "name": "Scholars",
+          "abbrev": "MSC",
+          "colors": [
+            "#ffffff",
+            "#5b2801",
+            "#ffffff"
+          ],
+          "season": 2020,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.1649991360491989,
+          "pop": 13.7,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "ownerMood": {
+            "wins": 0,
+            "playoffs": 0,
+            "money": 0
+          },
+          "numPlayersTradedAway": 0,
+          "imgURL": "https://i.imgur.com/rCYrYO6.png",
+          "jersey": "jersey3",
+          "rid": 2
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 2,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 2
+        }
+      ]
+    },
+    {
+      "tid": 3,
+      "cid": 0,
+      "did": 1,
+      "region": "Pieta",
+      "name": "Swans",
+      "abbrev": "PSW",
+      "imgURL": "https://i.imgur.com/2SPpE0F.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 59.41,
+          "rank": 4
+        },
+        "scouting": {
+          "amount": 21570,
+          "rank": 4
+        },
+        "coaching": {
+          "amount": 21570,
+          "rank": 4
+        },
+        "health": {
+          "amount": 21570,
+          "rank": 4
+        },
+        "facilities": {
+          "amount": 21570,
+          "rank": 4
+        }
+      },
+      "strategy": "contending",
+      "colors": [
+        "#1100ff",
+        "#ffffff",
+        "#ffbd8a"
+      ],
+      "jersey": "jersey3",
+      "pop": 4.9,
+      "stadiumCapacity": 25000,
+      "retiredJerseyNumbers": [],
+      "adjustForInflation": true,
+      "disabled": false,
+      "keepRosterSorted": true,
+      "seasons": [
+        {
+          "tid": 3,
+          "cid": 0,
+          "did": 1,
+          "region": "Pieta",
+          "name": "Swans",
+          "abbrev": "PSW",
+          "colors": [
+            "#1100ff",
+            "#ffffff",
+            "#ffbd8a"
+          ],
+          "season": 2020,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.39096005869901473,
+          "pop": 4.9,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "ownerMood": {
+            "wins": 0,
+            "playoffs": 0,
+            "money": 0
+          },
+          "numPlayersTradedAway": 0,
+          "imgURL": "https://i.imgur.com/2SPpE0F.png",
+          "jersey": "jersey3",
+          "rid": 3
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 3,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 3
+        }
+      ]
+    },
+    {
+      "tid": 4,
+      "cid": 0,
+      "did": 1,
+      "region": "Saint Julian's",
+      "name": "Astros",
+      "abbrev": "SJA",
+      "imgURL": "https://i.imgur.com/HGVVwZQ.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 37,
+          "rank": 30
+        },
+        "scouting": {
+          "amount": 13500,
+          "rank": 30
+        },
+        "coaching": {
+          "amount": 13500,
+          "rank": 30
+        },
+        "health": {
+          "amount": 13500,
+          "rank": 30
+        },
+        "facilities": {
+          "amount": 13500,
+          "rank": 30
+        }
+      },
+      "strategy": "rebuilding",
+      "colors": [
+        "#8f8f8f",
+        "#010928",
+        "#b8cdff"
+      ],
+      "jersey": "jersey3",
+      "pop": 13.8,
+      "stadiumCapacity": 25000,
+      "retiredJerseyNumbers": [],
+      "adjustForInflation": true,
+      "disabled": false,
+      "keepRosterSorted": true,
+      "seasons": [
+        {
+          "tid": 4,
+          "cid": 0,
+          "did": 1,
+          "region": "Saint Julian's",
+          "name": "Astros",
+          "abbrev": "SJA",
+          "colors": [
+            "#8f8f8f",
+            "#010928",
+            "#b8cdff"
+          ],
+          "season": 2020,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.728506082828855,
+          "pop": 13.8,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "ownerMood": {
+            "wins": 0,
+            "playoffs": 0,
+            "money": 0
+          },
+          "numPlayersTradedAway": 0,
+          "imgURL": "https://i.imgur.com/HGVVwZQ.png",
+          "jersey": "jersey3",
+          "rid": 4
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 4,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 4
+        }
+      ]
+    },
+    {
+      "tid": 5,
+      "cid": 0,
+      "did": 1,
+      "region": "San Ġwann",
+      "name": "Giants",
+      "abbrev": "SGG",
+      "imgURL": "https://i.imgur.com/YiAuRe9.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 38.29,
+          "rank": 28
+        },
+        "scouting": {
+          "amount": 13970,
+          "rank": 28
+        },
+        "coaching": {
+          "amount": 13970,
+          "rank": 28
+        },
+        "health": {
+          "amount": 13970,
+          "rank": 28
+        },
+        "facilities": {
+          "amount": 13970,
+          "rank": 28
+        }
+      },
+      "strategy": "rebuilding",
+      "colors": [
+        "#001eff",
+        "#fbff00",
+        "#ffffff"
+      ],
+      "jersey": "jersey3",
+      "pop": 14.7,
+      "stadiumCapacity": 25000,
+      "retiredJerseyNumbers": [],
+      "adjustForInflation": true,
+      "disabled": false,
+      "keepRosterSorted": true,
+      "seasons": [
+        {
+          "tid": 5,
+          "cid": 0,
+          "did": 1,
+          "region": "San Ġwann",
+          "name": "Giants",
+          "abbrev": "SGG",
+          "colors": [
+            "#001eff",
+            "#fbff00",
+            "#ffffff"
+          ],
+          "season": 2020,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.42751201386938065,
+          "pop": 14.7,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "ownerMood": {
+            "wins": 0,
+            "playoffs": 0,
+            "money": 0
+          },
+          "numPlayersTradedAway": 0,
+          "imgURL": "https://i.imgur.com/YiAuRe9.png",
+          "jersey": "jersey3",
+          "rid": 5
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 5,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 5
+        }
+      ]
+    },
+    {
+      "tid": 6,
+      "cid": 1,
+      "did": 2,
+      "region": "Fgura",
+      "name": "Frogs",
+      "abbrev": "FGU",
+      "imgURL": "https://i.imgur.com/i0nA037.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 57.26,
+          "rank": 6
+        },
+        "scouting": {
+          "amount": 20790,
+          "rank": 6
+        },
+        "coaching": {
+          "amount": 20790,
+          "rank": 6
+        },
+        "health": {
+          "amount": 20790,
+          "rank": 6
+        },
+        "facilities": {
+          "amount": 20790,
+          "rank": 6
+        }
+      },
+      "strategy": "contending",
+      "colors": [
+        "#2da701",
+        "#60391a",
+        "#ffffff"
+      ],
+      "jersey": "jersey3",
+      "pop": 12.4,
+      "stadiumCapacity": 25000,
+      "retiredJerseyNumbers": [],
+      "adjustForInflation": true,
+      "disabled": false,
+      "keepRosterSorted": true,
+      "seasons": [
+        {
+          "tid": 6,
+          "cid": 1,
+          "did": 2,
+          "region": "Fgura",
+          "name": "Frogs",
+          "abbrev": "FGU",
+          "imgURL": "https://i.imgur.com/i0nA037.png",
+          "colors": [
+            "#2da701",
+            "#60391a",
+            "#ffffff"
+          ],
+          "season": 2020,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.4990343641528501,
+          "pop": 12.4,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "ownerMood": {
+            "wins": 0,
+            "playoffs": 0,
+            "money": 0
+          },
+          "numPlayersTradedAway": 0,
+          "jersey": "jersey3",
+          "rid": 6
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 6,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 6
+        }
+      ]
+    },
+    {
+      "tid": 7,
+      "cid": 1,
+      "did": 3,
+      "region": "Birżebbuġa",
+      "name": "Mariners",
+      "abbrev": "BZB",
+      "imgURL": "https://i.imgur.com/8ZvaEpo.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 44.76,
+          "rank": 20
+        },
+        "scouting": {
+          "amount": 16290,
+          "rank": 20
+        },
+        "coaching": {
+          "amount": 16290,
+          "rank": 20
+        },
+        "health": {
+          "amount": 16290,
+          "rank": 20
+        },
+        "facilities": {
+          "amount": 16290,
+          "rank": 20
+        }
+      },
+      "strategy": "rebuilding",
+      "colors": [
+        "#002aff",
+        "#ffffff",
+        "#ffffff"
+      ],
+      "jersey": "jersey3",
+      "pop": 12.9,
+      "stadiumCapacity": 25000,
+      "retiredJerseyNumbers": [],
+      "adjustForInflation": true,
+      "disabled": false,
+      "keepRosterSorted": true,
+      "seasons": [
+        {
+          "tid": 7,
+          "cid": 1,
+          "did": 3,
+          "region": "Birżebbuġa",
+          "name": "Mariners",
+          "abbrev": "BZB",
+          "imgURL": "https://i.imgur.com/8ZvaEpo.png",
+          "colors": [
+            "#002aff",
+            "#ffffff",
+            "#ffffff"
+          ],
+          "season": 2020,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.5606898801498537,
+          "pop": 12.9,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "ownerMood": {
+            "wins": 0,
+            "playoffs": 0,
+            "money": 0
+          },
+          "numPlayersTradedAway": 0,
+          "jersey": "jersey3",
+          "rid": 7
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 7,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 7
+        }
+      ]
+    },
+    {
+      "tid": 8,
+      "cid": 0,
+      "did": 1,
+      "region": "Santa Venera",
+      "name": "Gladiators",
+      "abbrev": "STV",
+      "imgURL": "https://i.imgur.com/zrJSX8d.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 49.07,
+          "rank": 16
+        },
+        "scouting": {
+          "amount": 17840,
+          "rank": 16
+        },
+        "coaching": {
+          "amount": 17840,
+          "rank": 16
+        },
+        "health": {
+          "amount": 17840,
+          "rank": 16
+        },
+        "facilities": {
+          "amount": 17840,
+          "rank": 16
+        }
+      },
+      "strategy": "contending",
+      "colors": [
+        "#800000",
+        "#8a8a8a",
+        "#ffffff"
+      ],
+      "jersey": "jersey3",
+      "pop": 7.6,
+      "stadiumCapacity": 25000,
+      "retiredJerseyNumbers": [],
+      "adjustForInflation": true,
+      "disabled": false,
+      "keepRosterSorted": true,
+      "seasons": [
+        {
+          "tid": 8,
+          "cid": 0,
+          "did": 1,
+          "region": "Santa Venera",
+          "name": "Gladiators",
+          "abbrev": "STV",
+          "imgURL": "https://i.imgur.com/zrJSX8d.png",
+          "colors": [
+            "#800000",
+            "#8a8a8a",
+            "#ffffff"
+          ],
+          "season": 2020,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.6621476829951891,
+          "pop": 7.6,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "ownerMood": {
+            "wins": 0,
+            "playoffs": 0,
+            "money": 0
+          },
+          "numPlayersTradedAway": 0,
+          "jersey": "jersey3",
+          "rid": 8
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 8,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 8
+        }
+      ]
+    },
+    {
+      "tid": 9,
+      "cid": 1,
+      "did": 2,
+      "region": "Marsa",
+      "name": "Industry",
+      "abbrev": "MAR",
+      "imgURL": "https://i.imgur.com/eA9BFtf.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 54.67,
+          "rank": 9
+        },
+        "scouting": {
+          "amount": 19860,
+          "rank": 9
+        },
+        "coaching": {
+          "amount": 19860,
+          "rank": 9
+        },
+        "health": {
+          "amount": 19860,
+          "rank": 9
+        },
+        "facilities": {
+          "amount": 19860,
+          "rank": 9
+        }
+      },
+      "strategy": "rebuilding",
+      "colors": [
+        "#4c91c2",
+        "#ff7575",
+        "#ffffff"
+      ],
+      "jersey": "jersey3",
+      "pop": 5.4,
+      "stadiumCapacity": 25000,
+      "retiredJerseyNumbers": [],
+      "adjustForInflation": true,
+      "disabled": false,
+      "keepRosterSorted": true,
+      "seasons": [
+        {
+          "tid": 9,
+          "cid": 1,
+          "did": 2,
+          "region": "Marsa",
+          "name": "Industry",
+          "abbrev": "MAR",
+          "imgURL": "https://i.imgur.com/eA9BFtf.png",
+          "colors": [
+            "#4c91c2",
+            "#ff7575",
+            "#ffffff"
+          ],
+          "season": 2020,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.8469606632600584,
+          "pop": 5.4,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "ownerMood": {
+            "wins": 0,
+            "playoffs": 0,
+            "money": 0
+          },
+          "numPlayersTradedAway": 0,
+          "jersey": "jersey3",
+          "rid": 9
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 9,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 9
+        }
+      ]
+    },
+    {
+      "tid": 10,
+      "cid": 1,
+      "did": 2,
+      "region": "Ħamrun",
+      "name": "Outcasts",
+      "abbrev": "ĦAM",
+      "imgURL": "https://i.imgur.com/wbRLyz2.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 41.31,
+          "rank": 25
+        },
+        "scouting": {
+          "amount": 15050,
+          "rank": 25
+        },
+        "coaching": {
+          "amount": 15050,
+          "rank": 25
+        },
+        "health": {
+          "amount": 15050,
+          "rank": 25
+        },
+        "facilities": {
+          "amount": 15050,
+          "rank": 25
+        }
+      },
+      "strategy": "rebuilding",
+      "colors": [
+        "#000000",
+        "#8f8f8f",
+        "#ffffff"
+      ],
+      "jersey": "jersey3",
+      "pop": 9.7,
+      "stadiumCapacity": 25000,
+      "retiredJerseyNumbers": [],
+      "adjustForInflation": true,
+      "disabled": false,
+      "keepRosterSorted": true,
+      "seasons": [
+        {
+          "tid": 10,
+          "cid": 1,
+          "did": 2,
+          "region": "Ħamrun",
+          "name": "Outcasts",
+          "abbrev": "ĦAM",
+          "imgURL": "https://i.imgur.com/wbRLyz2.png",
+          "colors": [
+            "#000000",
+            "#8f8f8f",
+            "#ffffff"
+          ],
+          "season": 2020,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.7967128430710533,
+          "pop": 9.7,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "ownerMood": {
+            "wins": 0,
+            "playoffs": 0,
+            "money": 0
+          },
+          "numPlayersTradedAway": 0,
+          "jersey": "jersey3",
+          "rid": 10
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 10,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 10
+        }
+      ]
+    },
+    {
+      "tid": 11,
+      "cid": 1,
+      "did": 3,
+      "region": "Luqa",
+      "name": "Fighter Pilots",
+      "abbrev": "LUQ",
+      "imgURL": "https://i.imgur.com/VOOy4ZP.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 60.28,
+          "rank": 3
+        },
+        "scouting": {
+          "amount": 21880,
+          "rank": 3
+        },
+        "coaching": {
+          "amount": 21880,
+          "rank": 3
+        },
+        "health": {
+          "amount": 21880,
+          "rank": 3
+        },
+        "facilities": {
+          "amount": 21880,
+          "rank": 3
+        }
+      },
+      "strategy": "rebuilding",
+      "colors": [
+        "#808080",
+        "#ffffff",
+        "#dedddd"
+      ],
+      "jersey": "jersey3",
+      "pop": 6.1,
+      "stadiumCapacity": 25000,
+      "retiredJerseyNumbers": [],
+      "adjustForInflation": true,
+      "disabled": false,
+      "keepRosterSorted": true,
+      "seasons": [
+        {
+          "tid": 11,
+          "cid": 1,
+          "did": 3,
+          "region": "Luqa",
+          "name": "Fighter Pilots",
+          "abbrev": "LUQ",
+          "imgURL": "https://i.imgur.com/VOOy4ZP.png",
+          "colors": [
+            "#808080",
+            "#ffffff",
+            "#dedddd"
+          ],
+          "season": 2020,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.7367585523662288,
+          "pop": 6.1,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "ownerMood": {
+            "wins": 0,
+            "playoffs": 0,
+            "money": 0
+          },
+          "numPlayersTradedAway": 0,
+          "jersey": "jersey3",
+          "rid": 11
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 11,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 11
+        }
+      ]
+    },
+    {
+      "tid": 12,
+      "cid": 1,
+      "did": 3,
+      "region": "Marsaskala",
+      "name": "Sports Club",
+      "abbrev": "MSK",
+      "imgURL": "https://i.imgur.com/JLrWv6v.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 61.14,
+          "rank": 2
+        },
+        "scouting": {
+          "amount": 22190,
+          "rank": 2
+        },
+        "coaching": {
+          "amount": 22190,
+          "rank": 2
+        },
+        "health": {
+          "amount": 22190,
+          "rank": 2
+        },
+        "facilities": {
+          "amount": 22190,
+          "rank": 2
+        }
+      },
+      "strategy": "rebuilding",
+      "colors": [
+        "#1be600",
+        "#ffa200",
+        "#b3fffe"
+      ],
+      "jersey": "jersey3",
+      "pop": 14.6,
+      "stadiumCapacity": 25000,
+      "retiredJerseyNumbers": [],
+      "adjustForInflation": true,
+      "disabled": false,
+      "keepRosterSorted": true,
+      "seasons": [
+        {
+          "tid": 12,
+          "cid": 1,
+          "did": 3,
+          "region": "Marsaskala",
+          "name": "Sports Club",
+          "abbrev": "MSK",
+          "imgURL": "https://i.imgur.com/JLrWv6v.png",
+          "colors": [
+            "#1be600",
+            "#ffa200",
+            "#b3fffe"
+          ],
+          "season": 2020,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.6482504394860773,
+          "pop": 14.6,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "ownerMood": {
+            "wins": 0,
+            "playoffs": 0,
+            "money": 0
+          },
+          "numPlayersTradedAway": 0,
+          "jersey": "jersey3",
+          "rid": 12
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 12,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 12
+        }
+      ]
+    },
+    {
+      "tid": 13,
+      "cid": 0,
+      "did": 1,
+      "region": "Sliema",
+      "name": "Cash Money",
+      "abbrev": "SLI",
+      "imgURL": "https://i.imgur.com/92sr1x7.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 53.38,
+          "rank": 11
+        },
+        "scouting": {
+          "amount": 19400,
+          "rank": 11
+        },
+        "coaching": {
+          "amount": 19400,
+          "rank": 11
+        },
+        "health": {
+          "amount": 19400,
+          "rank": 11
+        },
+        "facilities": {
+          "amount": 19400,
+          "rank": 11
+        }
+      },
+      "strategy": "rebuilding",
+      "colors": [
+        "#00fffb",
+        "#ffffff",
+        "#000000"
+      ],
+      "jersey": "jersey3",
+      "pop": 22.6,
+      "stadiumCapacity": 25000,
+      "retiredJerseyNumbers": [],
+      "adjustForInflation": true,
+      "disabled": false,
+      "keepRosterSorted": true,
+      "seasons": [
+        {
+          "tid": 13,
+          "cid": 0,
+          "did": 1,
+          "region": "Sliema",
+          "name": "Cash Money",
+          "abbrev": "SLI",
+          "imgURL": "https://i.imgur.com/92sr1x7.png",
+          "colors": [
+            "#00fffb",
+            "#ffffff",
+            "#000000"
+          ],
+          "season": 2020,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.3743522496552665,
+          "pop": 22.6,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "ownerMood": {
+            "wins": 0,
+            "playoffs": 0,
+            "money": 0
+          },
+          "numPlayersTradedAway": 0,
+          "jersey": "jersey3",
+          "rid": 13
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 13,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 13
+        }
+      ]
+    },
+    {
+      "tid": 14,
+      "cid": 1,
+      "did": 2,
+      "region": "Qormi",
+      "name": "PaviStars",
+      "abbrev": "QOR",
+      "imgURL": "https://i.imgur.com/TBpw9Dp.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 46.48,
+          "rank": 19
+        },
+        "scouting": {
+          "amount": 16910,
+          "rank": 19
+        },
+        "coaching": {
+          "amount": 16910,
+          "rank": 19
+        },
+        "health": {
+          "amount": 16910,
+          "rank": 19
+        },
+        "facilities": {
+          "amount": 16910,
+          "rank": 19
+        }
+      },
+      "strategy": "rebuilding",
+      "colors": [
+        "#1e203e",
+        "#fff700",
+        "#ffffff"
+      ],
+      "jersey": "jersey3",
+      "pop": 16.8,
+      "stadiumCapacity": 25000,
+      "retiredJerseyNumbers": [],
+      "adjustForInflation": true,
+      "disabled": false,
+      "keepRosterSorted": true,
+      "seasons": [
+        {
+          "tid": 14,
+          "cid": 1,
+          "did": 2,
+          "region": "Qormi",
+          "name": "PaviStars",
+          "abbrev": "QOR",
+          "imgURL": "https://i.imgur.com/TBpw9Dp.png",
+          "colors": [
+            "#1e203e",
+            "#fff700",
+            "#ffffff"
+          ],
+          "season": 2020,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.782849454463973,
+          "pop": 16.8,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "ownerMood": {
+            "wins": 0,
+            "playoffs": 0,
+            "money": 0
+          },
+          "numPlayersTradedAway": 0,
+          "jersey": "jersey3",
+          "rid": 14
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 14,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 14
+        }
+      ]
+    },
+    {
+      "tid": 15,
+      "cid": 0,
+      "did": 0,
+      "region": "Mellieħa",
+      "name": "Popeyes",
+      "abbrev": "MLH",
+      "imgURL": "https://i.imgur.com/nfbrHa4.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 47.34,
+          "rank": 18
+        },
+        "scouting": {
+          "amount": 17220,
+          "rank": 18
+        },
+        "coaching": {
+          "amount": 17220,
+          "rank": 18
+        },
+        "health": {
+          "amount": 17220,
+          "rank": 18
+        },
+        "facilities": {
+          "amount": 17220,
+          "rank": 18
+        }
+      },
+      "strategy": "contending",
+      "colors": [
+        "#737bf2",
+        "#ffee00",
+        "#ffffff"
+      ],
+      "jersey": "jersey3",
+      "pop": 11.4,
+      "stadiumCapacity": 25000,
+      "retiredJerseyNumbers": [],
+      "adjustForInflation": true,
+      "disabled": false,
+      "keepRosterSorted": true,
+      "seasons": [
+        {
+          "tid": 15,
+          "cid": 0,
+          "did": 0,
+          "region": "Mellieħa",
+          "name": "Popeyes",
+          "abbrev": "MLH",
+          "imgURL": "https://i.imgur.com/nfbrHa4.png",
+          "colors": [
+            "#737bf2",
+            "#ffee00",
+            "#ffffff"
+          ],
+          "season": 2020,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.799684090083344,
+          "pop": 11.4,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "ownerMood": {
+            "wins": 0,
+            "playoffs": 0,
+            "money": 0
+          },
+          "numPlayersTradedAway": 0,
+          "jersey": "jersey3",
+          "rid": 15
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 15,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 15
+        }
+      ]
+    },
+    {
+      "tid": 16,
+      "cid": 0,
+      "did": 0,
+      "region": "Mġarr",
+      "name": "Strawberries",
+      "abbrev": "MĠA",
+      "imgURL": "https://i.imgur.com/ZqrFpkK.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 62,
+          "rank": 1
+        },
+        "scouting": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "coaching": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "health": {
+          "amount": 22500,
+          "rank": 1
+        },
+        "facilities": {
+          "amount": 22500,
+          "rank": 1
+        }
+      },
+      "strategy": "rebuilding",
+      "colors": [
+        "#ff0000",
+        "#00ff08",
+        "#ffffff"
+      ],
+      "jersey": "jersey3",
+      "pop": 3.8,
+      "stadiumCapacity": 25000,
+      "retiredJerseyNumbers": [],
+      "adjustForInflation": true,
+      "disabled": false,
+      "keepRosterSorted": true,
+      "seasons": [
+        {
+          "tid": 16,
+          "cid": 0,
+          "did": 0,
+          "region": "Mġarr",
+          "name": "Strawberries",
+          "abbrev": "MĠA",
+          "imgURL": "https://i.imgur.com/ZqrFpkK.png",
+          "colors": [
+            "#ff0000",
+            "#00ff08",
+            "#ffffff"
+          ],
+          "season": 2020,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.051948194211395515,
+          "pop": 3.8,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "ownerMood": {
+            "wins": 0,
+            "playoffs": 0,
+            "money": 0
+          },
+          "numPlayersTradedAway": 0,
+          "jersey": "jersey3",
+          "rid": 16
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 16,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 16
+        }
+      ]
+    },
+    {
+      "tid": 17,
+      "cid": 0,
+      "did": 0,
+      "region": "Mosta",
+      "name": "Stampede",
+      "abbrev": "MOS",
+      "imgURL": "https://i.imgur.com/05Jg8AP.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 52.52,
+          "rank": 12
+        },
+        "scouting": {
+          "amount": 19090,
+          "rank": 12
+        },
+        "coaching": {
+          "amount": 19090,
+          "rank": 12
+        },
+        "health": {
+          "amount": 19090,
+          "rank": 12
+        },
+        "facilities": {
+          "amount": 19090,
+          "rank": 12
+        }
+      },
+      "strategy": "contending",
+      "colors": [
+        "#ffffff",
+        "#ff0000",
+        "#0004ff"
+      ],
+      "jersey": "jersey3",
+      "pop": 21,
+      "stadiumCapacity": 25000,
+      "retiredJerseyNumbers": [],
+      "adjustForInflation": true,
+      "disabled": false,
+      "keepRosterSorted": true,
+      "seasons": [
+        {
+          "tid": 17,
+          "cid": 0,
+          "did": 0,
+          "region": "Mosta",
+          "name": "Stampede",
+          "abbrev": "MOS",
+          "imgURL": "https://i.imgur.com/05Jg8AP.png",
+          "colors": [
+            "#ffffff",
+            "#ff0000",
+            "#0004ff"
+          ],
+          "season": 2020,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.33626015106193163,
+          "pop": 21,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "ownerMood": {
+            "wins": 0,
+            "playoffs": 0,
+            "money": 0
+          },
+          "numPlayersTradedAway": 0,
+          "jersey": "jersey3",
+          "rid": 17
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 17,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 17
+        }
+      ]
+    },
+    {
+      "tid": 18,
+      "cid": 1,
+      "did": 2,
+      "region": "Paola",
+      "name": "Victory",
+      "abbrev": "PAO",
+      "imgURL": "https://i.imgur.com/BY7DO7q.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 49.93,
+          "rank": 15
+        },
+        "scouting": {
+          "amount": 18160,
+          "rank": 15
+        },
+        "coaching": {
+          "amount": 18160,
+          "rank": 15
+        },
+        "health": {
+          "amount": 18160,
+          "rank": 15
+        },
+        "facilities": {
+          "amount": 18160,
+          "rank": 15
+        }
+      },
+      "strategy": "rebuilding",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#ffffff"
+      ],
+      "jersey": "jersey3",
+      "pop": 8.7,
+      "stadiumCapacity": 25000,
+      "retiredJerseyNumbers": [],
+      "adjustForInflation": true,
+      "disabled": false,
+      "keepRosterSorted": true,
+      "seasons": [
+        {
+          "tid": 18,
+          "cid": 1,
+          "did": 2,
+          "region": "Paola",
+          "name": "Victory",
+          "abbrev": "PAO",
+          "imgURL": "https://i.imgur.com/BY7DO7q.png",
+          "colors": [
+            "#ffffff",
+            "#000000",
+            "#ffffff"
+          ],
+          "season": 2020,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.02736489304527523,
+          "pop": 8.7,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "ownerMood": {
+            "wins": 0,
+            "playoffs": 0,
+            "money": 0
+          },
+          "numPlayersTradedAway": 0,
+          "jersey": "jersey3",
+          "rid": 18
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 18,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 18
+        }
+      ]
+    },
+    {
+      "tid": 19,
+      "cid": 0,
+      "did": 0,
+      "region": "Naxxar",
+      "name": "Northerners",
+      "abbrev": "NXR",
+      "imgURL": "https://i.imgur.com/6s2TfG3.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 38.29,
+          "rank": 28
+        },
+        "scouting": {
+          "amount": 13970,
+          "rank": 28
+        },
+        "coaching": {
+          "amount": 13970,
+          "rank": 28
+        },
+        "health": {
+          "amount": 13970,
+          "rank": 28
+        },
+        "facilities": {
+          "amount": 13970,
+          "rank": 28
+        }
+      },
+      "strategy": "rebuilding",
+      "colors": [
+        "#000000",
+        "#ff0000",
+        "#787878"
+      ],
+      "jersey": "jersey3",
+      "pop": 14.9,
+      "stadiumCapacity": 25000,
+      "retiredJerseyNumbers": [],
+      "adjustForInflation": true,
+      "disabled": false,
+      "keepRosterSorted": true,
+      "seasons": [
+        {
+          "tid": 19,
+          "cid": 0,
+          "did": 0,
+          "region": "Naxxar",
+          "name": "Northerners",
+          "abbrev": "NXR",
+          "imgURL": "https://i.imgur.com/6s2TfG3.png",
+          "colors": [
+            "#000000",
+            "#ff0000",
+            "#787878"
+          ],
+          "season": 2020,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.7617294276512625,
+          "pop": 14.9,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "ownerMood": {
+            "wins": 0,
+            "playoffs": 0,
+            "money": 0
+          },
+          "numPlayersTradedAway": 0,
+          "jersey": "jersey3",
+          "rid": 19
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 19,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 19
+        }
+      ]
+    },
+    {
+      "tid": 20,
+      "cid": 1,
+      "did": 3,
+      "region": "Santa Luċija",
+      "name": "Suns",
+      "abbrev": "SLC",
+      "imgURL": "https://i.imgur.com/W41b96p.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 40.45,
+          "rank": 26
+        },
+        "scouting": {
+          "amount": 14740,
+          "rank": 26
+        },
+        "coaching": {
+          "amount": 14740,
+          "rank": 26
+        },
+        "health": {
+          "amount": 14740,
+          "rank": 26
+        },
+        "facilities": {
+          "amount": 14740,
+          "rank": 26
+        }
+      },
+      "strategy": "rebuilding",
+      "colors": [
+        "#000000",
+        "#fff700",
+        "#000000"
+      ],
+      "jersey": "jersey3",
+      "pop": 3,
+      "stadiumCapacity": 25000,
+      "retiredJerseyNumbers": [],
+      "adjustForInflation": true,
+      "disabled": false,
+      "keepRosterSorted": true,
+      "seasons": [
+        {
+          "tid": 20,
+          "cid": 1,
+          "did": 3,
+          "region": "Santa Luċija",
+          "name": "Suns",
+          "abbrev": "SLC",
+          "imgURL": "https://i.imgur.com/W41b96p.png",
+          "colors": [
+            "#000000",
+            "#fff700",
+            "#000000"
+          ],
+          "season": 2020,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.6987726049909586,
+          "pop": 3,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "ownerMood": {
+            "wins": 0,
+            "playoffs": 0,
+            "money": 0
+          },
+          "numPlayersTradedAway": 0,
+          "jersey": "jersey3",
+          "rid": 20
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 20,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 20
+        }
+      ]
+    },
+    {
+      "tid": 21,
+      "cid": 1,
+      "did": 3,
+      "region": "Siġġiewi",
+      "name": "Basketball Club",
+      "abbrev": "SIĠ",
+      "imgURL": "https://i.imgur.com/cyZETpQ.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 39.59,
+          "rank": 27
+        },
+        "scouting": {
+          "amount": 14430,
+          "rank": 27
+        },
+        "coaching": {
+          "amount": 14430,
+          "rank": 27
+        },
+        "health": {
+          "amount": 14430,
+          "rank": 27
+        },
+        "facilities": {
+          "amount": 14430,
+          "rank": 27
+        }
+      },
+      "strategy": "contending",
+      "colors": [
+        "#ff8800",
+        "#ff0000",
+        "#ffffff"
+      ],
+      "jersey": "jersey3",
+      "pop": 8.7,
+      "stadiumCapacity": 25000,
+      "retiredJerseyNumbers": [],
+      "adjustForInflation": true,
+      "disabled": false,
+      "keepRosterSorted": true,
+      "seasons": [
+        {
+          "tid": 21,
+          "cid": 1,
+          "did": 3,
+          "region": "Siġġiewi",
+          "name": "Basketball Club",
+          "abbrev": "SIĠ",
+          "imgURL": "https://i.imgur.com/cyZETpQ.png",
+          "colors": [
+            "#ff8800",
+            "#ff0000",
+            "#ffffff"
+          ],
+          "season": 2020,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.9047694906997792,
+          "pop": 8.7,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "ownerMood": {
+            "wins": 0,
+            "playoffs": 0,
+            "money": 0
+          },
+          "numPlayersTradedAway": 0,
+          "jersey": "jersey3",
+          "rid": 21
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 21,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 21
+        }
+      ]
+    },
+    {
+      "tid": 22,
+      "cid": 1,
+      "did": 2,
+      "region": "Żebbuġ",
+      "name": "Doves",
+      "abbrev": "ŻBĠ",
+      "imgURL": "https://i.imgur.com/yUbDAw4.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 50.79,
+          "rank": 14
+        },
+        "scouting": {
+          "amount": 18470,
+          "rank": 14
+        },
+        "coaching": {
+          "amount": 18470,
+          "rank": 14
+        },
+        "health": {
+          "amount": 18470,
+          "rank": 14
+        },
+        "facilities": {
+          "amount": 18470,
+          "rank": 14
+        }
+      },
+      "strategy": "contending",
+      "colors": [
+        "#ffffff",
+        "#ff0000",
+        "#ff0000"
+      ],
+      "jersey": "jersey3",
+      "pop": 12.2,
+      "stadiumCapacity": 25000,
+      "retiredJerseyNumbers": [],
+      "adjustForInflation": true,
+      "disabled": false,
+      "keepRosterSorted": true,
+      "seasons": [
+        {
+          "tid": 22,
+          "cid": 1,
+          "did": 2,
+          "region": "Żebbuġ",
+          "name": "Doves",
+          "abbrev": "ŻBĠ",
+          "imgURL": "https://i.imgur.com/yUbDAw4.png",
+          "colors": [
+            "#ffffff",
+            "#ff0000",
+            "#ff0000"
+          ],
+          "season": 2020,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.008520047795740782,
+          "pop": 12.2,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "ownerMood": {
+            "wins": 0,
+            "playoffs": 0,
+            "money": 0
+          },
+          "numPlayersTradedAway": 0,
+          "jersey": "jersey3",
+          "rid": 22
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 22,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 22
+        }
+      ]
+    },
+    {
+      "tid": 23,
+      "cid": 1,
+      "did": 3,
+      "region": "Żurrieq",
+      "name": "Hunters",
+      "abbrev": "ŻRQ",
+      "imgURL": "https://i.imgur.com/lDNdYyB.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 55.97,
+          "rank": 8
+        },
+        "scouting": {
+          "amount": 20330,
+          "rank": 8
+        },
+        "coaching": {
+          "amount": 20330,
+          "rank": 8
+        },
+        "health": {
+          "amount": 20330,
+          "rank": 8
+        },
+        "facilities": {
+          "amount": 20330,
+          "rank": 8
+        }
+      },
+      "strategy": "rebuilding",
+      "colors": [
+        "#ff0000",
+        "#6e6e6e",
+        "#ffffff"
+      ],
+      "jersey": "jersey3",
+      "pop": 11,
+      "stadiumCapacity": 25000,
+      "retiredJerseyNumbers": [],
+      "adjustForInflation": true,
+      "disabled": false,
+      "keepRosterSorted": true,
+      "seasons": [
+        {
+          "tid": 23,
+          "cid": 1,
+          "did": 3,
+          "region": "Żurrieq",
+          "name": "Hunters",
+          "abbrev": "ŻRQ",
+          "imgURL": "https://i.imgur.com/lDNdYyB.png",
+          "colors": [
+            "#ff0000",
+            "#6e6e6e",
+            "#ffffff"
+          ],
+          "season": 2020,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.11675214410140211,
+          "pop": 11,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "ownerMood": {
+            "wins": 0,
+            "playoffs": 0,
+            "money": 0
+          },
+          "numPlayersTradedAway": 0,
+          "jersey": "jersey3",
+          "rid": 23
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 23,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 23
+        }
+      ]
+    },
+    {
+      "tid": 24,
+      "cid": 0,
+      "did": 0,
+      "region": "Swieqi",
+      "name": "Owls",
+      "abbrev": "SWQ",
+      "imgURL": "https://i.imgur.com/Fg4k6zE.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 48.21,
+          "rank": 17
+        },
+        "scouting": {
+          "amount": 17530,
+          "rank": 17
+        },
+        "coaching": {
+          "amount": 17530,
+          "rank": 17
+        },
+        "health": {
+          "amount": 17530,
+          "rank": 17
+        },
+        "facilities": {
+          "amount": 17530,
+          "rank": 17
+        }
+      },
+      "strategy": "rebuilding",
+      "colors": [
+        "#ffffff",
+        "#ffa200",
+        "#ffffff"
+      ],
+      "jersey": "jersey3",
+      "pop": 14.4,
+      "stadiumCapacity": 25000,
+      "retiredJerseyNumbers": [],
+      "adjustForInflation": true,
+      "disabled": false,
+      "keepRosterSorted": true,
+      "seasons": [
+        {
+          "tid": 24,
+          "cid": 0,
+          "did": 0,
+          "region": "Swieqi",
+          "name": "Owls",
+          "abbrev": "SWQ",
+          "imgURL": "https://i.imgur.com/Fg4k6zE.png",
+          "colors": [
+            "#ffffff",
+            "#ffa200",
+            "#ffffff"
+          ],
+          "season": 2020,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.386955915373024,
+          "pop": 14.4,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "ownerMood": {
+            "wins": 0,
+            "playoffs": 0,
+            "money": 0
+          },
+          "numPlayersTradedAway": 0,
+          "jersey": "jersey3",
+          "rid": 24
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 24,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 24
+        }
+      ]
+    },
+    {
+      "tid": 25,
+      "cid": 1,
+      "did": 2,
+      "region": "Tarxien",
+      "name": "Rainbows",
+      "abbrev": "TAR",
+      "imgURL": "https://i.imgur.com/mVsHaUn.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 42.17,
+          "rank": 24
+        },
+        "scouting": {
+          "amount": 15360,
+          "rank": 24
+        },
+        "coaching": {
+          "amount": 15360,
+          "rank": 24
+        },
+        "health": {
+          "amount": 15360,
+          "rank": 24
+        },
+        "facilities": {
+          "amount": 15360,
+          "rank": 24
+        }
+      },
+      "strategy": "rebuilding",
+      "colors": [
+        "#94efff",
+        "#ff0000",
+        "#ffffff"
+      ],
+      "jersey": "jersey3",
+      "pop": 8.6,
+      "stadiumCapacity": 25000,
+      "retiredJerseyNumbers": [],
+      "adjustForInflation": true,
+      "disabled": false,
+      "keepRosterSorted": true,
+      "seasons": [
+        {
+          "tid": 25,
+          "cid": 1,
+          "did": 2,
+          "region": "Tarxien",
+          "name": "Rainbows",
+          "abbrev": "TAR",
+          "imgURL": "https://i.imgur.com/mVsHaUn.png",
+          "colors": [
+            "#94efff",
+            "#ff0000",
+            "#ffffff"
+          ],
+          "season": 2020,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.39291597645733356,
+          "pop": 8.6,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "ownerMood": {
+            "wins": 0,
+            "playoffs": 0,
+            "money": 0
+          },
+          "numPlayersTradedAway": 0,
+          "jersey": "jersey3",
+          "rid": 25
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 25,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 25
+        }
+      ]
+    },
+    {
+      "tid": 26,
+      "cid": 0,
+      "did": 0,
+      "region": "Pembroke",
+      "name": "Athleta",
+      "abbrev": "PEM",
+      "imgURL": "https://i.imgur.com/nBGsYQa.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 44.76,
+          "rank": 20
+        },
+        "scouting": {
+          "amount": 16290,
+          "rank": 20
+        },
+        "coaching": {
+          "amount": 16290,
+          "rank": 20
+        },
+        "health": {
+          "amount": 16290,
+          "rank": 20
+        },
+        "facilities": {
+          "amount": 16290,
+          "rank": 20
+        }
+      },
+      "strategy": "rebuilding",
+      "colors": [
+        "#c7c7c7",
+        "#ff0000",
+        "#ffffff"
+      ],
+      "jersey": "jersey3",
+      "pop": 3.8,
+      "stadiumCapacity": 25000,
+      "retiredJerseyNumbers": [],
+      "adjustForInflation": true,
+      "disabled": false,
+      "keepRosterSorted": true,
+      "seasons": [
+        {
+          "tid": 26,
+          "cid": 0,
+          "did": 0,
+          "region": "Pembroke",
+          "name": "Athleta",
+          "abbrev": "PEM",
+          "imgURL": "https://i.imgur.com/nBGsYQa.png",
+          "colors": [
+            "#c7c7c7",
+            "#ff0000",
+            "#ffffff"
+          ],
+          "season": 2020,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.8219169182421573,
+          "pop": 3.8,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "ownerMood": {
+            "wins": 0,
+            "playoffs": 0,
+            "money": 0
+          },
+          "numPlayersTradedAway": 0,
+          "jersey": "jersey3",
+          "rid": 26
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 26,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 26
+        }
+      ]
+    },
+    {
+      "tid": 27,
+      "cid": 0,
+      "did": 0,
+      "region": "Rabat",
+      "name": "Romans",
+      "abbrev": "RBT",
+      "imgURL": "https://i.imgur.com/rd4HRNX.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 57.26,
+          "rank": 6
+        },
+        "scouting": {
+          "amount": 20790,
+          "rank": 6
+        },
+        "coaching": {
+          "amount": 20790,
+          "rank": 6
+        },
+        "health": {
+          "amount": 20790,
+          "rank": 6
+        },
+        "facilities": {
+          "amount": 20790,
+          "rank": 6
+        }
+      },
+      "strategy": "rebuilding",
+      "colors": [
+        "#832525",
+        "#f3a153",
+        "#000000"
+      ],
+      "jersey": "jersey3",
+      "pop": 11.4,
+      "stadiumCapacity": 25000,
+      "retiredJerseyNumbers": [],
+      "adjustForInflation": true,
+      "disabled": false,
+      "keepRosterSorted": true,
+      "seasons": [
+        {
+          "tid": 27,
+          "cid": 0,
+          "did": 0,
+          "region": "Rabat",
+          "name": "Romans",
+          "abbrev": "RBT",
+          "imgURL": "https://i.imgur.com/rd4HRNX.png",
+          "colors": [
+            "#832525",
+            "#f3a153",
+            "#000000"
+          ],
+          "season": 2020,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.4458716832377785,
+          "pop": 11.4,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "ownerMood": {
+            "wins": 0,
+            "playoffs": 0,
+            "money": 0
+          },
+          "numPlayersTradedAway": 0,
+          "jersey": "jersey3",
+          "rid": 27
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 27,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 27
+        }
+      ]
+    },
+    {
+      "tid": 28,
+      "cid": 1,
+      "did": 2,
+      "region": "Valletta",
+      "name": "Lions",
+      "abbrev": "VLT",
+      "imgURL": "https://i.imgur.com/3Ky8gIN.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 43.03,
+          "rank": 23
+        },
+        "scouting": {
+          "amount": 15670,
+          "rank": 23
+        },
+        "coaching": {
+          "amount": 15670,
+          "rank": 23
+        },
+        "health": {
+          "amount": 15670,
+          "rank": 23
+        },
+        "facilities": {
+          "amount": 15670,
+          "rank": 23
+        }
+      },
+      "strategy": "rebuilding",
+      "colors": [
+        "#ff0000",
+        "#fff700",
+        "#ffffff"
+      ],
+      "jersey": "jersey3",
+      "pop": 5.7,
+      "stadiumCapacity": 25000,
+      "retiredJerseyNumbers": [],
+      "adjustForInflation": true,
+      "disabled": false,
+      "keepRosterSorted": true,
+      "seasons": [
+        {
+          "tid": 28,
+          "cid": 1,
+          "did": 2,
+          "region": "Valletta",
+          "name": "Lions",
+          "abbrev": "VLT",
+          "imgURL": "https://i.imgur.com/3Ky8gIN.png",
+          "colors": [
+            "#ff0000",
+            "#fff700",
+            "#ffffff"
+          ],
+          "season": 2020,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.020743685313656446,
+          "pop": 5.7,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "ownerMood": {
+            "wins": 0,
+            "playoffs": 0,
+            "money": 0
+          },
+          "numPlayersTradedAway": 0,
+          "jersey": "jersey3",
+          "rid": 28
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 28,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 28
+        }
+      ]
+    },
+    {
+      "tid": 29,
+      "cid": 0,
+      "did": 0,
+      "region": "San Pawl",
+      "name": "Beach Boys",
+      "abbrev": "STP",
+      "imgURL": "https://i.imgur.com/sUQGkC8.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 54.67,
+          "rank": 9
+        },
+        "scouting": {
+          "amount": 19860,
+          "rank": 9
+        },
+        "coaching": {
+          "amount": 19860,
+          "rank": 9
+        },
+        "health": {
+          "amount": 19860,
+          "rank": 9
+        },
+        "facilities": {
+          "amount": 19860,
+          "rank": 9
+        }
+      },
+      "strategy": "rebuilding",
+      "colors": [
+        "#90aafe",
+        "#ffecb8",
+        "#ffffff"
+      ],
+      "jersey": "jersey3",
+      "pop": 29,
+      "stadiumCapacity": 25000,
+      "retiredJerseyNumbers": [],
+      "adjustForInflation": true,
+      "disabled": false,
+      "keepRosterSorted": true,
+      "seasons": [
+        {
+          "tid": 29,
+          "cid": 0,
+          "did": 0,
+          "region": "San Pawl",
+          "name": "Beach Boys",
+          "abbrev": "STP",
+          "imgURL": "https://i.imgur.com/sUQGkC8.png",
+          "colors": [
+            "#90aafe",
+            "#ffecb8",
+            "#ffffff"
+          ],
+          "season": 2020,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.48841488845057324,
+          "pop": 29,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "ownerMood": {
+            "wins": 0,
+            "playoffs": 0,
+            "money": 0
+          },
+          "numPlayersTradedAway": 0,
+          "jersey": "jersey3",
+          "rid": 29
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 29,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 29
+        }
+      ]
+    },
+    {
+      "tid": 30,
+      "cid": 1,
+      "did": 3,
+      "region": "Żabbar",
+      "name": "Crystals",
+      "abbrev": "ŻAB",
+      "imgURL": "https://i.imgur.com/oZcdnUt.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 36.14,
+          "rank": 32
+        },
+        "scouting": {
+          "amount": 13190,
+          "rank": 32
+        },
+        "coaching": {
+          "amount": 13190,
+          "rank": 32
+        },
+        "health": {
+          "amount": 13190,
+          "rank": 32
+        },
+        "facilities": {
+          "amount": 13190,
+          "rank": 32
+        }
+      },
+      "strategy": "rebuilding",
+      "colors": [
+        "#00b3ff",
+        "#0040ff",
+        "#ae00ff"
+      ],
+      "jersey": "jersey3",
+      "pop": 15.4,
+      "stadiumCapacity": 25000,
+      "retiredJerseyNumbers": [],
+      "adjustForInflation": true,
+      "disabled": false,
+      "keepRosterSorted": true,
+      "seasons": [
+        {
+          "tid": 30,
+          "cid": 1,
+          "did": 3,
+          "region": "Żabbar",
+          "name": "Crystals",
+          "abbrev": "ŻAB",
+          "imgURL": "https://i.imgur.com/oZcdnUt.png",
+          "colors": [
+            "#00b3ff",
+            "#0040ff",
+            "#ae00ff"
+          ],
+          "season": 2020,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.7420711145607981,
+          "pop": 15.4,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "ownerMood": {
+            "wins": 0,
+            "playoffs": 0,
+            "money": 0
+          },
+          "numPlayersTradedAway": 0,
+          "jersey": "jersey3",
+          "rid": 30
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 30,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppFg": 0,
+          "oppFga": 0,
+          "oppFgAtRim": 0,
+          "oppFgaAtRim": 0,
+          "oppFgLowPost": 0,
+          "oppFgaLowPost": 0,
+          "oppFgMidRange": 0,
+          "oppFgaMidRange": 0,
+          "oppTp": 0,
+          "oppTpa": 0,
+          "oppFt": 0,
+          "oppFta": 0,
+          "oppOrb": 0,
+          "oppDrb": 0,
+          "oppAst": 0,
+          "oppTov": 0,
+          "oppStl": 0,
+          "oppBlk": 0,
+          "oppPf": 0,
+          "oppPts": 0,
+          "rid": 30
+        }
+      ]
+    },
+    {
+      "tid": 31,
+      "cid": 1,
+      "did": 3,
+      "region": "Żejtun",
+      "name": "Olives",
+      "abbrev": "ŻTN",
+      "imgURL": "https://i.imgur.com/tJt4WmA.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 36.58,
+          "rank": 31
+        },
+        "scouting": {
+          "amount": 13350,
+          "rank": 31
+        },
+        "coaching": {
+          "amount": 13350,
+          "rank": 31
+        },
+        "health": {
+          "amount": 13350,
+          "rank": 31
+        },
+        "facilities": {
+          "amount": 13350,
+          "rank": 31
+        }
+      },
+      "strategy": "rebuilding",
+      "colors": [
+        "#00470c",
+        "#ebff52",
+        "#743301"
+      ],
+      "jersey": "jersey3",
+      "pop": 11.4,
+      "stadiumCapacity": 25000,
+      "retiredJerseyNumbers": [],
+      "adjustForInflation": true,
+      "disabled": false,
+      "keepRosterSorted": true,
+      "seasons": [
+        {
+          "tid": 31,
+          "cid": 1,
+          "did": 3,
+          "region": "Żejtun",
+          "name": "Olives",
+          "abbrev": "ŻTN",
+          "imgURL": "https://i.imgur.com/tJt4WmA.png",
+          "colors": [
+            "#00470c",
+            "#ebff52",
+            "#743301"
+          ],
+          "season": 2020,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "tied": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "tiedHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "tiedAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "tiedDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "tiedConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.03893960533484697,
+          "pop": 11.4,
+          "stadiumCapacity": 25000,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 16
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 16
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 16
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 16
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 16
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 16
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 16
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 16
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 16
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 16
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 16
+            },
+            "health": {
+              "amount": 0,
+              "rank": 16
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 16
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "ownerMood": {
+            "wins": 0,
+            "playoffs": 0,
+            "money": 0
+          },
+          "numPlayersTradedAway": 0,
+          "jersey": "jersey3",
+          "rid": 31
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 31,
+          "gp": 0,
+          "min": 0,
           "fg": 0,
           "fga": 0,
           "fgAtRim": 0,
@@ -183639,6 +190072,15 @@
 				"value": [
 					{"cid":0,"name":"Northern Conference"},
 					{"cid":1,"name":"Southern Conference"}
+				]
+			},
+			{
+				"key": "divs",
+				"value":[
+					{"did":0, "cid": 0, "name":"True North"},
+					{"did":1, "cid": 0, "name":"North-Central"},
+					{"did":2, "cid": 1, "name":"Central"},
+					{"did":3, "cid": 1, "name":"True South"}
 				]
 			},
             {
